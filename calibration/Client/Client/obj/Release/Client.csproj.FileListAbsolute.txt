@@ -1,0 +1,9 @@
+C:\Users\JGPVision\Desktop\邱勝郁專區\Robobase0409\RobotAssembleBase\Client\Client\bin\Release\Client.exe
+C:\Users\JGPVision\Desktop\邱勝郁專區\Robobase0409\RobotAssembleBase\Client\Client\bin\Release\Client.pdb
+C:\Users\JGPVision\Desktop\邱勝郁專區\Robobase0409\RobotAssembleBase\Client\Client\obj\Release\ResolveAssemblyReference.cache
+C:\Users\JGPVision\Desktop\邱勝郁專區\Robobase0409\RobotAssembleBase\Client\Client\obj\Release\RobotAssembleBase.ChartClient.resources
+C:\Users\JGPVision\Desktop\邱勝郁專區\Robobase0409\RobotAssembleBase\Client\Client\obj\Release\Client.Properties.Resources.resources
+C:\Users\JGPVision\Desktop\邱勝郁專區\Robobase0409\RobotAssembleBase\Client\Client\obj\Release\GenerateResource.read.1.tlog
+C:\Users\JGPVision\Desktop\邱勝郁專區\Robobase0409\RobotAssembleBase\Client\Client\obj\Release\GenerateResource.write.1.tlog
+C:\Users\JGPVision\Desktop\邱勝郁專區\Robobase0409\RobotAssembleBase\Client\Client\obj\Release\Client.exe
+C:\Users\JGPVision\Desktop\邱勝郁專區\Robobase0409\RobotAssembleBase\Client\Client\obj\Release\Client.pdb

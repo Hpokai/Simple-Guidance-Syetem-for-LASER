@@ -1,0 +1,14 @@
+D:\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe
+D:\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.pdb
+D:\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form1.resources
+D:\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Properties.Resources.resources
+D:\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.exe
+D:\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.pdb
+D:\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe.config
+D:\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.ToolBlock.resources
+D:\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Jabil\00__Work\08-B275\hpokai\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe.config
+D:\Jabil\00__Work\08-B275\hpokai\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.exe
+D:\Jabil\00__Work\08-B275\hpokai\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.pdb
